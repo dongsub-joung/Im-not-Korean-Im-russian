@@ -1,3 +1,4 @@
+// https://www.reddit.com/r/rust/comments/9p0axz/q_how_to_create_an_inmemory_cache/?rdt=58852
 // https://crates.io/crates/lru
 
 extern crate lru;
